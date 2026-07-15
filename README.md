@@ -27,5 +27,6 @@ An educational Android application developed using **MIT App Inventor**, integra
 * **Option B (Source Code):** Open MIT App Inventor, go to `Projects > Import project (.aia) from my computer`, and select `FunThai.aia`.
 
 ---
-**Developed by:** [Nama Awak / Nombor Matrik]  
-**Course:** [Nama Subjek / Diploma Awak]
+**Developed by:** SITI NORUFAKIAH BINTI ADNAN 2024406938  
+**Course:** CSC264/ DIPLOMA IN COMPUTER SCIENCE
+
