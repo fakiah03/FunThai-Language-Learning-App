@@ -12,7 +12,7 @@ An educational Android application developed using **MIT App Inventor**, integra
 * `FunThai.aia` - Source code file for MIT App Inventor.
 * `FunThai.apk` - Ready-to-install Android application package.
 * `/api_funthai/` - PHP backend scripts (`get_profile.php`, `get_all_vocab.php`, etc.), image assets, and audio files.
-* `funthai_db.sql` - MySQL database structure and sample vocabulary data.
+* `/api_funthai/funthai_db.sql` - MySQL database structure and sample vocabulary data.
 
 ## 🚀 How to Setup & Run (For Lecturers / Testers)
 
